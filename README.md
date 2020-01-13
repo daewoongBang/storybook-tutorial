@@ -1,1 +1,1 @@
-# Story 사용해보기
+# Storybook 사용해보기
