@@ -10,7 +10,7 @@ export default {
 
 export const hello = () => {
   // knobs 만들기
-  const big = boolean('big', false);
+  const big = boolean('big', false); // knobs 이름, 기본값
   const name = text('name', 'Storybook');
   return <Hello name={name} big={big} />;
 };
